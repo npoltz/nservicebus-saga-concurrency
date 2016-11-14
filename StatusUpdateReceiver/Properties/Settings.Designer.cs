@@ -25,9 +25,8 @@ namespace StatusUpdateReceiver.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("DefaultEndpointsProtocol=https;AccountName=nservicebussamples;AccountKey=9SePrpc+" +
-            "+kjZwn3XpVmfy7PgsQ2cldkRrZpKW6SDYEp5dz07iszfqRqViBaeWMbizjeu7p4BC3bKgqFVp8HUew==" +
-            "")]
+        [global::System.Configuration.DefaultSettingValueAttribute("DefaultEndpointsProtocol=https;AccountName=<enter account name here>;AccountKey=<" +
+            "enter key here>")]
         public string AzureStorageConnectionString {
             get {
                 return ((string)(this["AzureStorageConnectionString"]));

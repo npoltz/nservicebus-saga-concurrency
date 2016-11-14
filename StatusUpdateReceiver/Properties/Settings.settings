@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="AzureStorageConnectionString" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">DefaultEndpointsProtocol=https;AccountName=nservicebussamples;AccountKey=9SePrpc++kjZwn3XpVmfy7PgsQ2cldkRrZpKW6SDYEp5dz07iszfqRqViBaeWMbizjeu7p4BC3bKgqFVp8HUew==</Value>
+      <Value Profile="(Default)">DefaultEndpointsProtocol=https;AccountName=&lt;enter account name here&gt;;AccountKey=&lt;enter key here&gt;</Value>
     </Setting>
   </Settings>
 </SettingsFile>
