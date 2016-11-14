@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/SagaConcurrency/bin/Debug
+/SagaConcurrency/obj/Debug
+/Shared/bin/Debug
+/Shared/obj/Debug
+/StatusUpdateReceiver/bin/Debug
+/StatusUpdateReceiver/obj/Debug
+/StatusUpdateSender/bin/Debug
+/StatusUpdateSender/obj/Debug
